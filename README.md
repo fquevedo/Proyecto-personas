@@ -1,6 +1,6 @@
 ﻿This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Proyecto Personas 
+#Proyecto Personas 
 
 Ejemplo basico de React JS utilizando ciclos de vida con Redux, consume una Api que nos entrega un JSON sobre personas y sus twits.
 
