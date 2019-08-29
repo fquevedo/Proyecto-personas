@@ -22,7 +22,7 @@ $ cd proyecto-personas
 $ npm install
 ```
 
-#### Ejecución
+### Ejecución
 Para levantar el proyecto ejecutar el siguiente comando:
 ```
 $ npm start
