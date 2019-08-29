@@ -2,7 +2,7 @@
 
 #Proyecto Personas 
 
-Ejemplo basico de React JS utilizando ciclos de vida con Redux, consume una Api que nos entrega un JSON de info sobre personas y sus twits.
+Ejemplo basico de React JS utilizando ciclos de vida con Redux, consume una Api que nos entrega un JSON sobre personas y sus twits.
 
 Tecnologias: React+Redux JavaScript Client
 
