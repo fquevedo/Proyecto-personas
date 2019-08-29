@@ -7,7 +7,7 @@ Ejemplo basico de React JS utilizando ciclos de vida con Redux, consume una Api 
 Tecnologias: React+Redux JavaScript Client
 
 ## Inicio
-Estas instrucciones te permitiran obtener una copia del proyecto corriendo de tu pc local para propositos de desarrollo y testing.
+Estas instrucciones te permitiran obtener una copia del proyecto corriendo en tu entorno local para propositos de desarrollo y testing.
 
 ### Prerequisitos
 * NodeJS[https://nodejs.org/en/download/](https://nodejs.org/en/download/)
